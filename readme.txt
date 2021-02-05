@@ -1,0 +1,1 @@
+This repository is determined for learning bases of Python, and for publishing my exercises on Github.com.
