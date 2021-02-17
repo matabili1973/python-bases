@@ -1,0 +1,4 @@
+Это текстовая строка.
+Это вторая текстовая строка.
+This is the third line.
+And this is the last line.
